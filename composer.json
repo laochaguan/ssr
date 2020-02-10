@@ -1,4 +1,19 @@
 {
+    "name": "laochaguan/ssr",
+    "description": "ssr demo",
+    "type": "project",
+    "keywords": [
+        "ssr",
+        "laochaguan",
+        "vpn"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "laochaguan",
+            "email": "hanliou2001@qq.com"
+        }
+    ],
     "require": {
         "laochaguan/ssr": "*"
     },
@@ -8,5 +23,4 @@
 		"url": "https://packagist.phpcomposer.com"
 	    }
     }
-
 }
